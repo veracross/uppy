@@ -9,8 +9,6 @@ node_modules
 
 env.sh
 
-dist/
-lib/
 coverage/
 examples/dev/bundle.js
 examples/aws-presigned-url/vendor/*
